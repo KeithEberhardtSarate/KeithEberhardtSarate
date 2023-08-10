@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm keith, graduated in Systems Analysis and Development, currently studying Postgraduate Studies in Full Stack Development.
 
 <!--
 **KeithEberhardtSarate/KeithEberhardtSarate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
